@@ -1,4 +1,5 @@
 # Construction-Site-Safety-Detection-System-based-on-YOLOv8-and-Transfer-Learning.
+<img width="1402" height="1122" alt="construction" src="https://github.com/user-attachments/assets/3a6026a9-6c21-47c0-9174-070d974fa0fa" />
 
 ## Overview
 
