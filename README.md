@@ -113,5 +113,6 @@ The trained model can automatically detect PPE compliance and safety violations 
 
 ## Author
 
+FANI 2323
 Computer Science Undergraduate
 Machine Learning & Computer Vision Enthusiast
