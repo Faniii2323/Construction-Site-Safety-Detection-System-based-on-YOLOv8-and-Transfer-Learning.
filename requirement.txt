@@ -1,0 +1,9 @@
+
+Python
+YOLOv8
+Ultralytics
+OpenCV
+NumPy
+Matplotlib
+KaggleHub
+Google Colab (GPU)
